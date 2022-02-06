@@ -146,11 +146,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Main',
   props: {
     msg: String
-  }
-
+  },
 }
 </script>
 

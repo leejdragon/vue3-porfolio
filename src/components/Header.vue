@@ -47,6 +47,8 @@ export default {
   z-index: var(--z-fixed);
   background-color: #fff;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 
 .nav__logo {
